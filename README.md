@@ -2,11 +2,11 @@
     <img src = "https://render.gitanimals.org/farms/{crowd-controller}" width="800" height="300"/>
 </a>
 
-### 연락처 및 블로그
-* 연락처: `yejoonii0205@kakao.com`
+### Contact
+* `yejoonii0205@kakao.com`
 
 
-### 경력
+### Career
 - DOUZONE BIZON CO., LTD. / Fullstack Developer (2022.02 ~ )
 
 
@@ -37,3 +37,7 @@
     <img src="https://skillicons.dev/icons?i=py&perline=10" />
   </a>
 </p>
+
+<br/>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=crowd-controller&label=Profile%20views&color=BC90DB&style=flat" alt="crowd-controller" /> </p>
