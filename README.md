@@ -1,5 +1,5 @@
 <a href="https://github.com/devxb/gitanimals">
-    <img src = "https://render.gitanimals.org/farms/{crowd-controller}" width="800" height="300"/>
+    <img src = "https://render.gitanimals.org/farms/crowd-controller" width="700" height="350"/>
 </a>
 
 ### Contact
